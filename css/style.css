@@ -1,3 +1,35 @@
 body{
 background-color: #ccc;
 }
+.header-bgc{
+	background: url(../img/first-bg.jpg); 
+	height: 100vh;
+	width: 100vw;
+}
+.main-container{
+	padding: 0 230px;
+	width: auto 0;
+	border: 1px solid red;
+}
+.main-serv{
+	height: 100vh;
+	width: 100%;
+	background-color: #ccc;
+	width: auto 0;
+	border: 1px solid red;
+}
+.main-port{
+	height: 100vh;
+	width: 100%;
+	background-color: #fff;	
+	width: auto 0;
+	border: 1px solid red;
+}
+
+.main-about{
+	height: 100vh;
+	width: 100%;
+	background-color: #fff;	
+	width: auto 0;
+	border: 1px solid red;
+}
